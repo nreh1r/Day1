@@ -20,9 +20,9 @@ boolean2 = False
 my_var = 5
 
 # First Method of putting variables into print statements
-#print("The value is", my_var)
+print("The value is", my_var)
 # Second method using f strings
-#print(f"The value is {my_var} but really my favourite number is {9 + 10}")
+print(f"The value is {my_var} but really my favourite number is {9 + 10}")
 
 # How to get user input
 answer = input("Please enter your favourite number: ")
