@@ -13,7 +13,7 @@ elif num < 10:
     print(num, "is too small by at least", amount)
 # else:
 #     print("num is equal to ten")
-
+print("Done")
 
 # functions
 # function are called by their name and then parentheses
@@ -33,3 +33,4 @@ while is_less_than:
         print(f"{new_num} is too small by at least {11 - new_num}")
     else:
         print(f"{new_num} is not greater than 10")
+print("Done")
