@@ -1,4 +1,4 @@
-number_int = 19
+number_int = 68
 number_binary = ""
 while number_int:
     remainder = number_int % 2
